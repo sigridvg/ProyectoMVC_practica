@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "i": "^0.3.7",
+    "npm": "^8.5.0"
+  },
+  "name": "proyectomvc",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js -e js,ejs,json,mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
